@@ -4,7 +4,6 @@ bio = ""
 contact = []
 course = ""
 description = ""
-draft = true
 image = ""
 interest = []
 title = ""
