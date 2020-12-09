@@ -6,6 +6,6 @@ course = ""
 description = ""
 image = ""
 interest = []
-title = ""
+title = "Nobuyuki Geek"
 
 +++
