@@ -1,6 +1,6 @@
 baseURL = "http://nobuyuki.netlify.com"
 disableLanguages = ["fr"]
-disqusShortname = "educenter"
+disqusShortname = "nobuyuki"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
