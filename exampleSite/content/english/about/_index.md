@@ -1,7 +1,7 @@
 ---
 title: About Us
-bg_image: images/backgrounds/page-title.jpg
-image: images/about/about-page.jpg
+bg_image: "/images/omar-prestwich-0tqa-ur6zqg-unsplash.jpg"
+image: ''
 description: ''
 
 ---
